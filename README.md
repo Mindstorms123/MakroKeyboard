@@ -25,11 +25,12 @@ How to programm the esp32:
 How to use the Python code to use the Makrokeyboard on PC:
   1. download python https://www.python.org/downloads/
   2. open the terminal as administrator
-  3. install independencies: pip install pyserial
-                             pip install keyboard
-                             pip install win10toast
-  4.  change the folder in the macropad.vbs file to the on on your system
-  5.  put the macropad.vbs file in the startupfolder:
+  3. install independencies:
+     - pip install pyserial
+     - pip install keyboard
+     - pip install win10toast
+  5.  change the folder in the macropad.vbs file to the on on your system
+  6.  put the macropad.vbs file in the startupfolder:
       1. Press Windows + R
       2. write shell:startup
       3. press enter
