@@ -2,13 +2,13 @@
 Script for a Makrokeyboards using an ESP32 and Cherrylike switches
 
 Stuff I used:
-  esp32 C3: https://de.aliexpress.com/item/1005006149784075.html?spm=a2g0o.order_list.order_list_main.28.18045c5fI0yOi7&gatewayAdapt=glo2deu
-  cherrylike switches: https://s.click.aliexpress.com/e/_EHSSh6s
+  - esp32 C3: https://de.aliexpress.com/item/1005006149784075.html?spm=a2g0o.order_list.order_list_main.28.18045c5fI0yOi7&gatewayAdapt=glo2deu
+  - cherrylike switches: https://s.click.aliexpress.com/e/_EHSSh6s
 
 3d Print files:  
-  Base of the macro pad: https://makerworld.com/de/models/696565-6-button-esp32-iot-macro-pad#profileId-1606478
-  keycap generator: https://makerworld.com/de/models/1385177-customizable-keycaps?from=search#profileId-1434411
-  Emojis: 📁🔉🔊📄📋📸
+  - Base of the macro pad: https://makerworld.com/de/models/696565-6-button-esp32-iot-macro-pad#profileId-1606478
+  - keycap generator: https://makerworld.com/de/models/1385177-customizable-keycaps?from=search#profileId-1434411
+  - Emojis: 📁🔉🔊📄📋📸
 
 The Connection pattern is the following:
   1. Connect one side of all the switches together and then connect that to ground
